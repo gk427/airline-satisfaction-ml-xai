@@ -187,6 +187,3 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
-# Ignore raw datasets
-data/*
-!data/README.md
