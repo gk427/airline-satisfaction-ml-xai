@@ -7,6 +7,12 @@ A Data-Driven Approach to Enhance Customer Retention.”**
 
 The project applies supervised machine learning models (Logistic Regression, Decision Tree, and Random Forest) to predict passenger satisfaction and uses explainable AI techniques (SHAP) to improve model transparency and managerial interpretability.
 
+## Research Motivation
+
+Airline passenger satisfaction is a critical driver of customer retention, brand loyalty, and long-term profitability in an increasingly competitive and digitally mediated aviation industry. As airlines collect large volumes of passenger feedback data, there is growing demand for analytical approaches that not only predict satisfaction outcomes accurately, but also provide transparent and actionable insights for managerial decision-making.
+
+This project demonstrates how machine learning, combined with explainable artificial intelligence (XAI), can be used to identify the service quality and journey-related factors that most strongly influence passenger satisfaction, supporting evidence-based service improvement and customer experience management.
+
 ---
 
 ## Repository Contents
